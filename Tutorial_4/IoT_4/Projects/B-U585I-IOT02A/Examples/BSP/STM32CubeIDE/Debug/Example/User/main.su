@@ -1,0 +1,6 @@
+/Users/kevinalvarez/SCHOOL/STM_IDE_WORKSPACE/Tutorial_4/IoT_4/Projects/B-U585I-IOT02A/Examples/BSP/Src/main.c:85:5:main	976	static
+/Users/kevinalvarez/SCHOOL/STM_IDE_WORKSPACE/Tutorial_4/IoT_4/Projects/B-U585I-IOT02A/Examples/BSP/Src/main.c:363:6:SystemClock_Config	136	static
+/Users/kevinalvarez/SCHOOL/STM_IDE_WORKSPACE/Tutorial_4/IoT_4/Projects/B-U585I-IOT02A/Examples/BSP/Src/main.c:417:13:CACHE_Enable	8	static
+/Users/kevinalvarez/SCHOOL/STM_IDE_WORKSPACE/Tutorial_4/IoT_4/Projects/B-U585I-IOT02A/Examples/BSP/Src/main.c:431:6:Error_Handler	8	static
+/Users/kevinalvarez/SCHOOL/STM_IDE_WORKSPACE/Tutorial_4/IoT_4/Projects/B-U585I-IOT02A/Examples/BSP/Src/main.c:446:10:CheckResult	8	static
+/Users/kevinalvarez/SCHOOL/STM_IDE_WORKSPACE/Tutorial_4/IoT_4/Projects/B-U585I-IOT02A/Examples/BSP/Src/main.c:478:6:BSP_PB_Callback	16	static

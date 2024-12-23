@@ -1,0 +1,11 @@
+/Users/kevinalvarez/SCHOOL/STM_IDE_WORKSPACE/Tutorial_7/IoT_7/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_env_sensors.c:88:9:BSP_ENV_SENSOR_Init	24	static
+/Users/kevinalvarez/SCHOOL/STM_IDE_WORKSPACE/Tutorial_7/IoT_7/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_env_sensors.c:136:9:BSP_ENV_SENSOR_DeInit	24	static
+/Users/kevinalvarez/SCHOOL/STM_IDE_WORKSPACE/Tutorial_7/IoT_7/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_env_sensors.c:170:9:BSP_ENV_SENSOR_GetCapabilities	24	static
+/Users/kevinalvarez/SCHOOL/STM_IDE_WORKSPACE/Tutorial_7/IoT_7/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_env_sensors.c:200:9:BSP_ENV_SENSOR_ReadID	24	static
+/Users/kevinalvarez/SCHOOL/STM_IDE_WORKSPACE/Tutorial_7/IoT_7/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_env_sensors.c:232:9:BSP_ENV_SENSOR_Enable	24	static
+/Users/kevinalvarez/SCHOOL/STM_IDE_WORKSPACE/Tutorial_7/IoT_7/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_env_sensors.c:274:9:BSP_ENV_SENSOR_Disable	24	static
+/Users/kevinalvarez/SCHOOL/STM_IDE_WORKSPACE/Tutorial_7/IoT_7/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_env_sensors.c:317:9:BSP_ENV_SENSOR_GetOutputDataRate	32	static
+/Users/kevinalvarez/SCHOOL/STM_IDE_WORKSPACE/Tutorial_7/IoT_7/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_env_sensors.c:360:9:BSP_ENV_SENSOR_SetOutputDataRate	32	static
+/Users/kevinalvarez/SCHOOL/STM_IDE_WORKSPACE/Tutorial_7/IoT_7/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_env_sensors.c:403:9:BSP_ENV_SENSOR_GetValue	32	static
+/Users/kevinalvarez/SCHOOL/STM_IDE_WORKSPACE/Tutorial_7/IoT_7/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_env_sensors.c:449:16:HTS221_Probe	56	static
+/Users/kevinalvarez/SCHOOL/STM_IDE_WORKSPACE/Tutorial_7/IoT_7/Drivers/BSP/B-U585I-IOT02A/b_u585i_iot02a_env_sensors.c:510:16:LPS22HH_Probe	56	static

@@ -1,0 +1,3 @@
+/Users/kevinalvarez/SCHOOL/STM_IDE_WORKSPACE/Tutorial_2/IoT_2/Projects/B-U585I-IOT02A/Examples/BSP/Src/light_sensor.c:52:9:Ls_demo	40	static
+/Users/kevinalvarez/SCHOOL/STM_IDE_WORKSPACE/Tutorial_2/IoT_2/Projects/B-U585I-IOT02A/Examples/BSP/Src/light_sensor.c:115:17:LIGHT_SENSOR_LuxCompensation	32	static
+/Users/kevinalvarez/SCHOOL/STM_IDE_WORKSPACE/Tutorial_2/IoT_2/Projects/B-U585I-IOT02A/Examples/BSP/Src/light_sensor.c:135:16:LIGHT_SENSOR_ConvertToLUX	48	static
